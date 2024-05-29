@@ -7,7 +7,7 @@ body {
   overflow: hidden;
   animation: flash-shadow 1s infinite;
   background: linear-gradient(to bottom, #610505, #830101, #830101b5, #61000055);
-
+ min-height: 100vh;
   /* Ensure content takes up the full height of the viewport */
   margin: 0;
   justify-content: center;
