@@ -966,9 +966,10 @@ html:focus, html:active {
 
 .tippy {
   animation: shadowGlow 3s infinite;
-  width: 100%;
+  width: 200%;
+  overflow: hidden;
   text-align: center;
-  margin-top: -25px;
+  margin-top: -45px;
 }
 
 .dippy {
